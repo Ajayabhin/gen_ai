@@ -28,3 +28,18 @@
     - classification
     - clustering
     - to search it with similar vectors to find the matching files or stuff from internet.
+
+## prompt:
+- input to the model.
+
+## in-context learning:
+- giving step  by step (procedures)  instructions as prompt.
+
+## k shot prompting:
+- giving k similar examples in the prompt.
+
+## prompt format:
+- some fromat are use in some models to get specific output.
+
+## Chain-of-thoughts:
+- providing a example to the prompt which includes reasoning step (how to calulate or logical steps that we want the ai to do).
