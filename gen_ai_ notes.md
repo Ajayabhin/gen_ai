@@ -43,3 +43,15 @@
 
 ## Chain-of-thoughts:
 - providing a example to the prompt which includes reasoning step (how to calulate or logical steps that we want the ai to do).
+
+
+
+# EXTRAS
+
+## Model Endpoint:
+- point on a DEDICATED AI CLUSTER `(for hoisting) `where LLMs accept user request and send back responces `(Model's generated text)`.
+
+## T-Few Fine Tuning:
+- Few-Shot Parameter Efficient Fine Tuning (PEFT).
+- it inserts additional layers and modifies its weight for the fine tuning `(The size of layer ~0.01%) `
+
