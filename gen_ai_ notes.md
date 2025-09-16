@@ -74,3 +74,7 @@
 
 ## Model Endpoint:
 - point on a DEDICATED AI CLUSTER `(for hoisting) `where LLMs accept user request and send back responces `(Model's generated text)`.
+
+## batch_size:
+- Batch size = 100 → Each training step processes 100 images, then updates the weights.
+- Batch size = how many samples the model sees before making one update to its weights.
